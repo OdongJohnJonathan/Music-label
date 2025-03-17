@@ -19,7 +19,7 @@
                 <!-- Music Item 1 -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="assets/images/album1.jpg" class="card-img-top" alt="Album 1">
+                        <img src="assets/images/12.jpg" class="card-img-top" alt="Album 1">
                         <div class="card-body">
                             <h5 class="card-title">Album 1</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
@@ -28,6 +28,69 @@
                     </div>
                 </div>
                 <!-- Repeat for more albums -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/11.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Album 2</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="https://www.spotify.com" class="btn btn-primary">Listen on Spotify</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Repeat for more albums -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/22.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Album 3</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="https://www.spotify.com" class="btn btn-primary">Listen on Spotify</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Music List -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <!-- Music Item 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/12.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Album 1</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="https://www.spotify.com" class="btn btn-primary">Listen on Spotify</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Repeat for more albums -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/11.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Album 2</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="https://www.spotify.com" class="btn btn-primary">Listen on Spotify</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Repeat for more albums -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/22.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Album 3</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="https://www.spotify.com" class="btn btn-primary">Listen on Spotify</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

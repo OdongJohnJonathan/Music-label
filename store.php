@@ -19,15 +19,39 @@
                 <!-- Item 1 -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="assets/images/album1.jpg" class="card-img-top" alt="Album 1">
+                        <img src="assets/images/12.jpg" class="card-img-top" alt="Album 1">
                         <div class="card-body">
-                            <h5 class="card-title">Album 1</h5>
+                            <h5 class="card-title">Hoodies</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
                             <a href="#" class="btn btn-primary">Buy Now</a>
                         </div>
                     </div>
                 </div>
                 <!-- Repeat for more items -->
+
+                <!-- Item 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/22.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Albums</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="#" class="btn btn-primary">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/11.jpg" class="card-img-top" alt="Album 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Caps</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="#" class="btn btn-primary">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

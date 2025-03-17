@@ -19,7 +19,7 @@
                 <!-- Artist 1 -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="assets/images/artist1.jpg" class="card-img-top" alt="Artist 1">
+                        <img src="assets/images/12.jpg" class="card-img-top" alt="Artist 1">
                         <div class="card-body">
                             <h5 class="card-title">Artist 1</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
@@ -28,6 +28,71 @@
                     </div>
                 </div>
                 <!-- Add more artists here -->
+                 <!-- Artist 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/11.jpg" class="card-img-top" alt="Artist 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Artist 1</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="music.php" class="btn btn-primary">Listen</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Artist 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/22.jpg" class="card-img-top" alt="Artist 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Artist 1</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="music.php" class="btn btn-primary">Listen</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+     <!-- Artists List -->
+     <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <!-- Artist 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/12.jpg" class="card-img-top" alt="Artist 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Artist 1</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="music.php" class="btn btn-primary">Listen</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more artists here -->
+                 <!-- Artist 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/11.jpg" class="card-img-top" alt="Artist 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Artist 1</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="music.php" class="btn btn-primary">Listen</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Artist 1 -->
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="assets/images/22.jpg" class="card-img-top" alt="Artist 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Artist 1</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec turpis et.</p>
+                            <a href="music.php" class="btn btn-primary">Listen</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

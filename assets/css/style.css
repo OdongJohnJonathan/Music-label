@@ -24,8 +24,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Hero Section */
-.hero {
-    background: url(../images/1.jpg) no-repeat center center;
+.hero{
+    background: url(../images/13.jpg) no-repeat center center;
     background-size: cover;
     color: #fff;
     padding: 100px 0;
@@ -124,4 +124,9 @@ form button {
     .card-img-top {
         height: 180px;
     }
+}
+
+.py-5 .container .row{
+    display: flex;
+    flex-direction: row;
 }
